@@ -2,8 +2,8 @@
 
 <h2>Links</h2>
 
-[Itch.io page](https://brucie.itch.io/courtroom-calamity)<br/>
-Contains both the build to run on a tablet and the build to run on a PC.
+[Itch.io page](https://brucie.itch.io/courtroom-calamity) Contains both the build to run on a tablet and the build to run on a PC. <br/>
+[Dev Log](https://harveyrobinsonsgamedevblog.wordpress.com) Contains the dev log posts used to document the building of the game.
 
 <h2>Description</h2>
 
