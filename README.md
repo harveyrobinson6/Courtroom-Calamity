@@ -11,7 +11,7 @@ This was my first real experience working on a full games development project an
 
 </br>
 
-Our group was one of the only within the class to finish their game. A final build was uploaded onto a tablet and placed within the museum for visitors to play. This project gave my invaluable experience working with a team, towards a deadline and for a client, whom we were in regular contact with to ensure the final product was tailored towards them and their museums. Furthermore, this broadened my experience with Unity and C# and generally improved my games development skills.
+Our group was one of the only within the class to finish their game. A final build was uploaded onto a tablet and placed within the museum for visitors to play. This project gave me invaluable experience working with a team, towards a deadline and for a client, whom we were in regular contact with to ensure the final product was tailored towards them and their museums. Furthermore, this broadened my experience with Unity and C# and generally improved my games development skills.
 
 <h2>Screenshots:</h2>
 
